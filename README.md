@@ -11,7 +11,7 @@
 Revealing the invisible price of consumption through Agentic AI.
 
 ### 🛠️ Tech Stack
-- **AI:** Google Gemini 1.5 Flash (Reasoning Agent)
+- **AI:** Google Gemini 2.5 Flash (Reasoning Agent)
 - **Frontend:** Streamlit
 - **Innovation:** Suggesting Bio-enzymes and sustainable alternatives.
 
