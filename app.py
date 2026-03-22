@@ -24,7 +24,7 @@ st.markdown("""
 
 if st.button("Unmask the Truth 🔍"):
     if not api_key:
-        st.error("Bhai, sidebar mein API Key toh daalo!")
+        st.error("Please enter the API Key in sidebar!")
     elif not product_name and not uploaded_file:
         st.warning("Please provide a product name or an image.")
     else:
